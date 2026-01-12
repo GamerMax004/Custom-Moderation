@@ -1,0 +1,236 @@
+{
+    "1451317018601984154": [
+        {
+            "case_id": 1,
+            "type": "lock",
+            "user_id": 0,
+            "moderator_id": 1211683189186105434,
+            "reason": "Test",
+            "timestamp": "2026-01-10T15:38:23.462176",
+            "active": true,
+            "channel_id": 1451317020070121663
+        },
+        {
+            "case_id": 2,
+            "type": "warn",
+            "user_id": 1211683189186105434,
+            "moderator_id": 1211683189186105434,
+            "reason": "Test",
+            "timestamp": "2026-01-10T15:38:40.755115",
+            "active": false
+        },
+        {
+            "case_id": 3,
+            "type": "unlock",
+            "user_id": 0,
+            "moderator_id": 1211683189186105434,
+            "reason": "Channel entsperrt",
+            "timestamp": "2026-01-10T15:39:58.035283",
+            "active": true,
+            "channel_id": 1451317020070121663
+        },
+        {
+            "case_id": 4,
+            "type": "warn",
+            "user_id": 1211683189186105434,
+            "moderator_id": 1211683189186105434,
+            "reason": "Test",
+            "timestamp": "2026-01-10T16:20:23.612455",
+            "active": false
+        },
+        {
+            "case_id": 5,
+            "type": "report",
+            "user_id": 1211683189186105434,
+            "moderator_id": 1211683189186105434,
+            "reason": "Test",
+            "timestamp": "2026-01-10T16:21:23.933702",
+            "active": true
+        },
+        {
+            "case_id": 6,
+            "type": "clear",
+            "user_id": 0,
+            "moderator_id": 1211683189186105434,
+            "reason": "14 Nachrichten gelöscht",
+            "timestamp": "2026-01-11T08:18:42.438819",
+            "active": true,
+            "anzahl": 14,
+            "channel_id": 1451317020070121663
+        },
+        {
+            "case_id": 7,
+            "type": "clear",
+            "user_id": 0,
+            "moderator_id": 1211683189186105434,
+            "reason": "9 Nachrichten gelöscht",
+            "timestamp": "2026-01-11T08:21:52.572848",
+            "active": true,
+            "anzahl": 9,
+            "channel_id": 1451317020070121663
+        },
+        {
+            "case_id": 8,
+            "type": "clear",
+            "user_id": 0,
+            "moderator_id": 1211683189186105434,
+            "reason": "2 Nachrichten gelöscht",
+            "timestamp": "2026-01-11T08:57:26.198804",
+            "active": true,
+            "anzahl": 2,
+            "channel_id": 1451317020070121663
+        },
+        {
+            "case_id": 9,
+            "type": "warn",
+            "user_id": 1211683189186105434,
+            "moderator_id": 1211683189186105434,
+            "reason": "Test",
+            "timestamp": "2026-01-11T09:06:58.969900",
+            "active": true
+        }
+    ],
+    "1449811998136336558": [
+        {
+            "case_id": 1,
+            "type": "clear",
+            "user_id": 0,
+            "moderator_id": 1211683189186105434,
+            "reason": "2 Nachrichten gelöscht",
+            "timestamp": "2026-01-11T21:50:23.286019",
+            "active": true,
+            "anzahl": 2,
+            "channel_id": 1450854560385208481
+        },
+        {
+            "case_id": 2,
+            "type": "report",
+            "user_id": 1211683189186105434,
+            "moderator_id": 1211683189186105434,
+            "reason": "Test",
+            "timestamp": "2026-01-11T21:51:47.702494",
+            "active": true
+        },
+        {
+            "case_id": 3,
+            "type": "lock",
+            "user_id": 0,
+            "moderator_id": 1211683189186105434,
+            "reason": "Test",
+            "timestamp": "2026-01-11T21:54:27.933842",
+            "active": true,
+            "channel_id": 1450854560385208481
+        },
+        {
+            "case_id": 4,
+            "type": "unlock",
+            "user_id": 0,
+            "moderator_id": 1211683189186105434,
+            "reason": "Channel entsperrt",
+            "timestamp": "2026-01-11T21:55:35.617858",
+            "active": true,
+            "channel_id": 1450854560385208481
+        },
+        {
+            "case_id": 5,
+            "type": "warn",
+            "user_id": 1211683189186105434,
+            "moderator_id": 1211683189186105434,
+            "reason": "Test",
+            "timestamp": "2026-01-12T16:59:19.419717",
+            "active": false
+        },
+        {
+            "case_id": 6,
+            "type": "timeout",
+            "user_id": 1264147807481364542,
+            "moderator_id": 1211683189186105434,
+            "reason": "Test des Systems. Bitte schicke <@1211683189186105434> einen Screenshot von der Botnachricht.",
+            "timestamp": "2026-01-12T17:03:00.949215",
+            "active": true,
+            "dauer": 1
+        },
+        {
+            "case_id": 7,
+            "type": "untimeout",
+            "user_id": 1264147807481364542,
+            "moderator_id": 1211683189186105434,
+            "reason": "Timeout entfernt",
+            "timestamp": "2026-01-12T17:03:09.255645",
+            "active": true
+        },
+        {
+            "case_id": 8,
+            "type": "warn",
+            "user_id": 1211683189186105434,
+            "moderator_id": 1211683189186105434,
+            "reason": "Test",
+            "timestamp": "2026-01-12T17:06:02.612933",
+            "active": false
+        },
+        {
+            "case_id": 9,
+            "type": "clear",
+            "user_id": 0,
+            "moderator_id": 1211683189186105434,
+            "reason": "8 Nachrichten gelöscht",
+            "timestamp": "2026-01-12T17:15:22.689899",
+            "active": true,
+            "anzahl": 8,
+            "channel_id": 1450854560385208481
+        },
+        {
+            "case_id": 10,
+            "type": "clear",
+            "user_id": 0,
+            "moderator_id": 1211683189186105434,
+            "reason": "5 Nachrichten gelöscht",
+            "timestamp": "2026-01-12T17:20:42.411312",
+            "active": true,
+            "anzahl": 5,
+            "channel_id": 1450854560385208481
+        },
+        {
+            "case_id": 11,
+            "type": "clear",
+            "user_id": 0,
+            "moderator_id": 1211683189186105434,
+            "reason": "2 Nachrichten gelöscht",
+            "timestamp": "2026-01-12T17:22:56.136207",
+            "active": true,
+            "anzahl": 2,
+            "channel_id": 1450854560385208481
+        },
+        {
+            "case_id": 12,
+            "type": "lock",
+            "user_id": 0,
+            "moderator_id": 1211683189186105434,
+            "reason": "Test",
+            "timestamp": "2026-01-12T17:48:38.336524",
+            "active": true,
+            "channel_id": 1458124121320722575
+        },
+        {
+            "case_id": 13,
+            "type": "unlock",
+            "user_id": 0,
+            "moderator_id": 1211683189186105434,
+            "reason": "Channel entsperrt",
+            "timestamp": "2026-01-12T17:48:52.041476",
+            "active": true,
+            "channel_id": 1458124121320722575
+        },
+        {
+            "case_id": 14,
+            "type": "clear",
+            "user_id": 0,
+            "moderator_id": 1211683189186105434,
+            "reason": "7 Nachrichten gelöscht",
+            "timestamp": "2026-01-12T17:53:57.558036",
+            "active": true,
+            "anzahl": 7,
+            "channel_id": 1450854560385208481
+        }
+    ]
+}
