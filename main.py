@@ -921,4 +921,4 @@ async def serverinfo(interaction: discord.Interaction):
 
 # Bot starten - ERSETZE MIT DEINEM TOKEN
 if __name__ == "__main__":
-    bot.run('MTQ1OTU2OTU3OTc5Mjc5MzYyMQ.GpeCRA.sd-rlNRugXks6I1-EL40DVFqB5oWqiBTNPS2iE')
+    bot.run os.getenv("BOT_TOKEN")
