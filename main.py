@@ -5,6 +5,7 @@ from datetime import timedelta, datetime
 import json
 import os
 from typing import Optional
+from keep_alive import keep_alive
 
 # Bot Setup
 intents = discord.Intents.default()
@@ -921,4 +922,5 @@ async def serverinfo(interaction: discord.Interaction):
 
 # Bot starten - ERSETZE MIT DEINEM TOKEN
 if __name__ == "__main__":
-    bot.run os.getenv("BOT_TOKEN")
+    keep_alive()
+    bot.run(os.getenv("BOT_TOKEN"))
